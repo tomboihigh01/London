@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> . . . </title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+<header>
+  <nav> </nav>
+</header>
+<section>
+  <img src="" alt=" logotype ">
+  <h1>Rubrik </h1>
+  <h2>Underrubrik</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim repellat praesentium voluptate aliquid, laudantium facere, ut reiciendis ratione eveniet itaque accusantium odio corporis optio esse quis dolorem quia vitae vel.</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui officiis ipsam soluta enim commodi ipsum corporis harum neque, odit animi, accusamus eius ipsa molestiae, necessitatibus voluptatem cum aspernatur temporibus. Odit.</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta non maxime ipsa? Impedit, alias iusto at, eligendi a saepe, nulla nostrum quam quibusdam animi tempora nemo minus aspernatur accusamus quod!</p>
+
+</section>
+
+<footer>
+  &copy 2019 - XXXXX
+</footer>
+</body>
+</html>
